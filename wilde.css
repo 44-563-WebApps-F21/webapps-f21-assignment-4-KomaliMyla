@@ -26,6 +26,6 @@ h5{color: black;font-family: 'Times New Roman';font-size: 120%;}
   #Starring tr:nth-child(odd){background-color: rgb(201, 162, 211);}
 
   h5:hover{
-    text-shadow:darkolivegreen; border: 3px
+    text-shadow:darkolivegreen; border: solid olivedrab 
   }
   
