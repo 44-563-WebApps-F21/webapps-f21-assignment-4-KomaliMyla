@@ -11,10 +11,15 @@ h5{color: black;font-family: 'Times New Roman';font-size: 120%;}
   color:indianred
 }
 
-Starring {
+#Starring {
   border: 2px solid black;text-align: center;
 }
-Starring th{
+#Starring th{
   background-color: lightblue ; text-align: center;border: 2px solid black; 
   }
+  #Starring tr{
+  border: 2px solid blue;text-align: center
+  }
+  #Starring tr:nth-child(even)  {    background-color: lightcoral;  }
+  #Starring tr:nth-child(odd){background-color: mediumorchid;}
   
