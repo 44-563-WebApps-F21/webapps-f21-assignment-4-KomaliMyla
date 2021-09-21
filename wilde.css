@@ -28,4 +28,22 @@ h5{color: black;font-family: 'Times New Roman';font-size: 120%;}
   h5:hover{
     text-shadow: 2px 2px 3px darkolivegreen; border: solid olivedrab 
   }
-  
+  ul.navbar-horizontal { 
+   
+    margin: 20;
+    padding: 20;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:rgb(99, 91, 91);
+    border: 2px solid rgb(128, 89, 168);
+    background-color:rgb(221, 221, 146);
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+    }
+    ul.navbar-horizontal a:hover {
+        background-color: rgb(124, 119, 119);
+        color:rgb(247, 239, 239);
+    }
