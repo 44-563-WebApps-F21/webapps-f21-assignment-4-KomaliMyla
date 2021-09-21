@@ -1,5 +1,5 @@
-h5{color: black;font-family: 'Times New Roman';font-size: 90%;}
-#K {color: black; font-family: Arial;font-size: 70%;}
+h5{color: black;font-family: 'Times New Roman';font-size: 120%;}
+#K {color: black; font-family: Arial;font-size: 90%;}
 #M:hover{color: black; font-size: 90% ;font-family:'Arial Narrow Bold';background-color:darkgrey;}
 .cecily{
   color:darkmagenta
@@ -10,3 +10,8 @@ h5{color: black;font-family: 'Times New Roman';font-size: 90%;}
 .gwendolen{
   color:indianred
 }
+
+Starring th{
+  background-color: lightblue ; text-align: center;border: 2px solid black; 
+  }
+  
