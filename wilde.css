@@ -11,6 +11,9 @@ h5{color: black;font-family: 'Times New Roman';font-size: 120%;}
   color:indianred
 }
 
+Starring {
+  border: 2px solid black;text-align: center;
+}
 Starring th{
   background-color: lightblue ; text-align: center;border: 2px solid black; 
   }
